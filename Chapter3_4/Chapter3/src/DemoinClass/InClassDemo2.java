@@ -8,6 +8,7 @@ public class InClassDemo2
 
 	public static void main(String[] args) 
 	{
+		//
 		Scanner userinput = new Scanner(System.in);
 		DecimalFormat dc = new DecimalFormat("0.0");
 		

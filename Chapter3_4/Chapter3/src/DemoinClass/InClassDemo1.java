@@ -7,6 +7,7 @@ public class InClassDemo1
 
 	public static void main(String[] args) 
 	{
+		//
 		Scanner userinput = new Scanner(System.in);
 		
 		int age;		
